@@ -23,6 +23,7 @@ Development of the SCS16 architecture began in 2003, and this repository makes t
 * **LinkedIn:** [Max Nigri on LinkedIn](https://www.linkedin.com/in/maxnigri/)
 
 👯 I’m looking to collaborate on any interesting topic related to workloads acceleration using Domain Specific Compute Architecture (DSCA)
+
 📫 How to reach me: max.nigri@gmail.com
 
 
