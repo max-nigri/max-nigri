@@ -26,5 +26,7 @@ Development of the SCS16 architecture began in 2003, and this repository makes t
 
 📫 How to reach me: max.nigri@gmail.com
 
+...
+
 
 
